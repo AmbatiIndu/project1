@@ -25,10 +25,19 @@ div{
 }
 #box1{
     background-color: aliceblue;
+    background-image: url("/nit5.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 #box2{
     background-color: bisque;
+    background-image: url("/nit3.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #box3{
     background-color: cadetblue;
+    background-image: url("/nit2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
