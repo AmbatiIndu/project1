@@ -9,6 +9,7 @@
     height: 60px;
     width: 100%;
     background-color: black;
+    padding-top: 10px;
 }
 
 body {
@@ -81,6 +82,7 @@ div{
     margin-top:20px;
     justify-content: space-around;
     border:2px solid black;
+    flex-wrap: wrap;
 }
 #box1{
     height: 180px;
