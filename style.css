@@ -28,7 +28,7 @@ body {
 .slides {
     display: flex;
     width: 400%;
-    animation: slide 30s infinite;
+    animation: slide 70s infinite;
 }
 
 .slides img {
