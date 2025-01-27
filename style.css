@@ -79,24 +79,24 @@ div{
     width: 99%;
     display: flex;
     margin-top:20px;
-    justify-content: center;
+    justify-content: space-around;
     border:2px solid black;
 }
 #box1{
+    height: 180px;
+    width: 180px;
+    object-fit: cover;
 
-    background-image: url("/nit5.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 #box2{
+    height: 180px;
+    width: 180px;
+    object-fit: cover;
 
-    background-image: url("/nit3.jpeg");
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 #box3{
+    height: 180px;
+    width: 180px;
+    object-fit: cover;
 
-    background-image: url("/nit2.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
 }
